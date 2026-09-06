@@ -1,111 +1,91 @@
-<div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCAzMjAiIHdpZHRoPSIxMDAlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGIwYzFhIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNDUlIiBzdG9wLWNvbG9yPSIjMTYxYTM1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzFlMTUzMyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9ImJsdXJBIiB4PSItNjAlIiB5PSItNjAlIiB3aWR0aD0iMjIwJSIgaGVpZ2h0PSIyMjAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNDIiLz4KICAgIDwvZmlsdGVyPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJjYXJkU3Ryb2tlIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMC41NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMC4wNiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0idGV4dEdyYWQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI0Y0Qjg2MCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0RkQxQjgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9InNoZWVuIiBjeD0iMzAlIiBjeT0iMjAlIiByPSI4MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMTAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgPC9kZWZzPgoKICA8cmVjdCB3aWR0aD0iMTAwMCIgaGVpZ2h0PSIzMjAiIGZpbGw9InVybCgjYmcpIi8+CgogIDwhLS0gZmxvYXRpbmcgYmx1cnJlZCBnbG93IGJsb2JzICh0aGUgImxpZ2h0IHNvdXJjZSIgYmVoaW5kIHRoZSBnbGFzcykgLS0+CiAgPGNpcmNsZSBjeD0iMTMwIiBjeT0iNTUiIHI9IjExNSIgZmlsbD0iI0Y0Qjg2MCIgb3BhY2l0eT0iMC41NSIgZmlsdGVyPSJ1cmwoI2JsdXJBKSI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJjeSIgdmFsdWVzPSI1NTs5MDs1NSIgZHVyPSI3cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L2NpcmNsZT4KICA8Y2lyY2xlIGN4PSI5MDUiIGN5PSIyNzAiIHI9IjE1MCIgZmlsbD0iIzRGRDFCOCIgb3BhY2l0eT0iMC41IiBmaWx0ZXI9InVybCgjYmx1ckEpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN5IiB2YWx1ZXM9IjI3MDsyMjU7MjcwIiBkdXI9IjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvY2lyY2xlPgogIDxjaXJjbGUgY3g9IjUyMCIgY3k9IjEwIiByPSI5NSIgZmlsbD0iIzhCN0NGNiIgb3BhY2l0eT0iMC40IiBmaWx0ZXI9InVybCgjYmx1ckEpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjUyMDs1OTA7NTIwIiBkdXI9IjlzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvY2lyY2xlPgogIDxjaXJjbGUgY3g9IjcyMCIgY3k9IjYwIiByPSI3MCIgZmlsbD0iI0Y0Qjg2MCIgb3BhY2l0eT0iMC4zIiBmaWx0ZXI9InVybCgjYmx1ckEpIi8+CgogIDwhLS0gdGhlIGdsYXNzIHBhbmVsIC0tPgogIDxyZWN0IHg9IjU1IiB5PSI1NSIgd2lkdGg9Ijg5MCIgaGVpZ2h0PSIyMTAiIHJ4PSIyNiIgZmlsbD0iI2ZmZmZmZiIgZmlsbC1vcGFjaXR5PSIwLjA3IiBzdHJva2U9InVybCgjY2FyZFN0cm9rZSkiIHN0cm9rZS13aWR0aD0iMS40Ii8+CiAgPHJlY3QgeD0iNTUiIHk9IjU1IiB3aWR0aD0iODkwIiBoZWlnaHQ9IjIxMCIgcng9IjI2IiBmaWxsPSJ1cmwoI3NoZWVuKSIvPgogIDxyZWN0IHg9IjYwIiB5PSI2MCIgd2lkdGg9Ijg4MCIgaGVpZ2h0PSIyMDAiIHJ4PSIyMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utb3BhY2l0eT0iMC4xMCIgc3Ryb2tlLXdpZHRoPSIwLjYiLz4KCiAgPCEtLSB0aGluIHRvcCBoaWdobGlnaHQgdG8gc2VsbCB0aGUgImdsYXNzIGVkZ2UiIC0tPgogIDxwYXRoIGQ9Ik0gODAgNTggUSA1MDAgNDAgOTIwIDU4IiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS1vcGFjaXR5PSIwLjM1IiBzdHJva2Utd2lkdGg9IjEuMiIgZmlsbD0ibm9uZSIvPgoKICA8dGV4dCB4PSI1MDAiIHk9IjE1MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidTZWdvZSBVSScsIHN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI0OCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0idXJsKCN0ZXh0R3JhZCkiIGxldHRlci1zcGFjaW5nPSIxIj5QUkFOQU0gUjwvdGV4dD4KICA8dGV4dCB4PSI1MDAiIHk9IjE5MiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidTZWdvZSBVSScsIHN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZmlsbD0iI0Q2RENFOCIgbGV0dGVyLXNwYWNpbmc9IjMiPkZVTEwgU1RBQ0sgREVWRUxPUEVSICDCtyAgTUVSTiAgwrcgIE1BQ0hJTkUgTEVBUk5JTkc8L3RleHQ+CiAgPHRleHQgeD0iNTAwIiB5PSIyMjIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiM4ODkyYTYiIGxldHRlci1zcGFjaW5nPSIxIj5LYXJuYXRha2EsIEluZGlhIMK3IEIuVGVjaCBDU0UgKEFJICZhbXA7IE1MKTwvdGV4dD4KPC9zdmc+Cg==" width="100%" alt="banner" />
-</div>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi,%20I'm%20Pranam%20R!&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20|%20AI%20&%20ML%20Enthusiast&descAlignY=55" width="100%"/>
+</h1>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=pranamnie-cpu&color=0b0c1a&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/pranamnie-cpu?style=for-the-badge&color=0b0c1a&labelColor=1e1533&label=FOLLOWERS)](https://github.com/pranamnie-cpu)
-[![Email](https://img.shields.io/badge/EMAIL-pranamn714%40gmail.com-1e1533?style=for-the-badge&logo=gmail&logoColor=F4B860)](mailto:pranamn714@gmail.com)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);B.Tech+CSE+(AI+%26+ML)+Student;Passionate+about+Web+Development;Always+Learning+%26+Building" alt="Typing SVG" />
 </div>
-
-<br/>
-
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA5MCIgd2lkdGg9IjEwMCUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8ZmlsdGVyIGlkPSJiMSIgeD0iLTYwJSIgeT0iLTYwJSIgd2lkdGg9IjIyMCUiIGhlaWdodD0iMjIwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iczEiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDUiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjkwIiBmaWxsPSIjMGIwYzFhIi8+CiAgPGNpcmNsZSBjeD0iNjAiIGN5PSI0NSIgcj0iNzAiIGZpbGw9IiNGNEI4NjAiIG9wYWNpdHk9IjAuNSIgZmlsdGVyPSJ1cmwoI2IxKSIvPgogIDxjaXJjbGUgY3g9Ijk0MCIgY3k9IjQ1IiByPSI3MCIgZmlsbD0iIzRGRDFCOCIgb3BhY2l0eT0iMC40NSIgZmlsdGVyPSJ1cmwoI2IxKSIvPgogIDxyZWN0IHg9IjIwIiB5PSIxNSIgd2lkdGg9Ijk2MCIgaGVpZ2h0PSI2MCIgcng9IjE4IiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9IjAuMDYiIHN0cm9rZT0idXJsKCNzMSkiIHN0cm9rZS13aWR0aD0iMS4yIi8+CiAgPHRleHQgeD0iNTAwIiB5PSI1MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIyNCIgZm9udC13ZWlnaHQ9IjYwMCIgZmlsbD0iI0Y0Qjg2MCI+fi9hYm91dC5tZDwvdGV4dD4KPC9zdmc+Cg==" width="100%" alt="about" />
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<br/>
-
-```yaml
-name:       Pranam R
-role:       Full Stack Developer
-education:  B.Tech CSE (AI & ML) — Lateral Entry
-background: Diploma in Computer Science
-focus:      MERN Stack · Backend APIs · Machine Learning
-location:   Karnataka, India
-```
-
-> Coming from a hands-on diploma foundation, I build full-stack web
-> applications with the **MERN stack** and am actively diving into
-> **machine learning** and core **algorithmic problem solving**.
-
-<br/>
-
-</td>
-<td width="42%" valign="top">
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=pranamnie-cpu&show_icons=true&hide_border=true&bg_color=00000000&title_color=F4B860&icon_color=4FD1B8&text_color=D6DCE8&ring_color=4FD1B8" width="100%" alt="stats" />
-
-</td>
-</tr>
-</table>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=pranamnie-cpu&hide_border=true&background=00000000&ring=F4B860&fire=F4B860&currStreakLabel=4FD1B8&sideLabels=D6DCE8&currStreakNum=D6DCE8&sideNums=D6DCE8&dates=8892a6" alt="streak" width="100%"/>
+  <a href="mailto:pranamn714@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/pranamnie-cpu">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Udupi%2C%20Karnataka-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </div>
 
-<br/>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="80%" height="3px" alt="RGB Line"/>
+</div>
+<br>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA5MCIgd2lkdGg9IjEwMCUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8ZmlsdGVyIGlkPSJiMSIgeD0iLTYwJSIgeT0iLTYwJSIgd2lkdGg9IjIyMCUiIGhlaWdodD0iMjIwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iczEiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDUiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjkwIiBmaWxsPSIjMGIwYzFhIi8+CiAgPGNpcmNsZSBjeD0iNjAiIGN5PSI0NSIgcj0iNzAiIGZpbGw9IiNGNEI4NjAiIG9wYWNpdHk9IjAuNSIgZmlsdGVyPSJ1cmwoI2IxKSIvPgogIDxjaXJjbGUgY3g9Ijk0MCIgY3k9IjQ1IiByPSI3MCIgZmlsbD0iIzRGRDFCOCIgb3BhY2l0eT0iMC40NSIgZmlsdGVyPSJ1cmwoI2IxKSIvPgogIDxyZWN0IHg9IjIwIiB5PSIxNSIgd2lkdGg9Ijk2MCIgaGVpZ2h0PSI2MCIgcng9IjE4IiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9IjAuMDYiIHN0cm9rZT0idXJsKCNzMSkiIHN0cm9rZS13aWR0aD0iMS4yIi8+CiAgPHRleHQgeD0iNTAwIiB5PSI1MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIyNCIgZm9udC13ZWlnaHQ9IjYwMCIgZmlsbD0iI0Y0Qjg2MCI+fi9za2lsbHMuanNvbjwvdGV4dD4KPC9zdmc+Cg==" width="100%" alt="skills" />
+### 👨‍💻 About Me
+- 🎓 Currently pursuing **B.Tech in CSE (AI & ML)** - 3rd Semester (Lateral Entry).
+- 📜 Hold a **Diploma in Computer Science** with a **9.7/10 CGPA** from NRAM Polytechnic Nitte.
+- 💼 Completed a 4-month **Full Stack Developer (MERN)** internship at CodeLab System, Mangalore.
+- 🏆 Certified in **Full Stack Development** via Infosys Springboard.
+- 🚀 Passionate about building seamless digital experiences and bridging the gap between design and robust backend logic.
 
-<div align="center"><br/>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="80%" height="3px" alt="RGB Line"/>
+</div>
+<br>
 
-**Core Stack**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb&theme=dark" /><br/><br/>
-
-**Languages**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=java,python,mysql,c&theme=dark" /><br/><br/>
-
-**Tools &amp; Platforms**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
-
+### 🛠️ Tech Stack & Tools
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,nodejs,express,mongo,git,github,vscode&perline=6" alt="Tech Stack Icons" />
+  </a>
 </div>
 
-<br/>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="80%" height="3px" alt="RGB Line"/>
+</div>
+<br>
+
+### 💡 Featured Projects
+
+| 🚀 Project | 📝 Description | 💻 Role / Stack |
+| :--- | :--- | :--- |
+| **Contractor Finder System** | A comprehensive platform built to easily find and connect with contractors. | *Internship Project / MERN* |
+| **Digital Menu System** | A modern QR-based digital restaurant menu for seamless ordering. | *Personal Project / Full Stack* |
+
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="80%" height="3px" alt="RGB Line"/>
+</div>
+<br>
+
+### 📊 GitHub Stats (Glassmorphism Theme)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranamnie-cpu&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00f0ff&text_color=ffffff&icon_color=ff00aa" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranamnie-cpu&theme=radical&hide_border=true&background=00000000&title_color=00f0ff&text_color=ffffff&icon_color=ff00aa" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranamnie-cpu&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00f0ff&text_color=ffffff" alt="Top Languages" width="50%" />
+</div>
+
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="80%" height="3px" alt="RGB Line"/>
+</div>
+<br>
+
+### 🐍 Contribution Snake Animation
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranamnie-cpu/pranamnie-cpu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranamnie-cpu/pranamnie-cpu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranamnie-cpu/pranamnie-cpu/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranamnie-cpu&layout=compact&hide_border=true&bg_color=00000000&title_color=F4B860&text_color=D6DCE8" width="48%" alt="top langs" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranamnie-cpu&bg_color=00000000&color=4FD1B8&line=F4B860&point=D6DCE8&hide_border=true&area=true" width="48%" alt="activity graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
-
-<br/>
-
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA5MCIgd2lkdGg9IjEwMCUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8ZmlsdGVyIGlkPSJiMSIgeD0iLTYwJSIgeT0iLTYwJSIgd2lkdGg9IjIyMCUiIGhlaWdodD0iMjIwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iczEiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDUiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjkwIiBmaWxsPSIjMGIwYzFhIi8+CiAgPGNpcmNsZSBjeD0iNjAiIGN5PSI0NSIgcj0iNzAiIGZpbGw9IiNGNEI4NjAiIG9wYWNpdHk9IjAuNSIgZmlsdGVyPSJ1cmwoI2IxKSIvPgogIDxjaXJjbGUgY3g9Ijk0MCIgY3k9IjQ1IiByPSI3MCIgZmlsbD0iIzRGRDFCOCIgb3BhY2l0eT0iMC40NSIgZmlsdGVyPSJ1cmwoI2IxKSIvPgogIDxyZWN0IHg9IjIwIiB5PSIxNSIgd2lkdGg9Ijk2MCIgaGVpZ2h0PSI2MCIgcng9IjE4IiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9IjAuMDYiIHN0cm9rZT0idXJsKCNzMSkiIHN0cm9rZS13aWR0aD0iMS4yIi8+CiAgPHRleHQgeD0iNTAwIiB5PSI1MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIyNCIgZm9udC13ZWlnaHQ9IjYwMCIgZmlsbD0iI0Y0Qjg2MCI+fi9hY3Rpdml0eS5sb2c8L3RleHQ+Cjwvc3ZnPgo=" width="100%" alt="activity" />
-
-<div align="center"><br/>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=pranamnie-cpu&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8)
-
-<br/>
-
-<!-- Snake contribution animation — see setup note below -->
-<img src="https://raw.githubusercontent.com/pranamnie-cpu/pranamnie-cpu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
-
-</div>
-
-<br/>
-
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA5MCIgd2lkdGg9IjEwMCUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8ZmlsdGVyIGlkPSJiMSIgeD0iLTYwJSIgeT0iLTYwJSIgd2lkdGg9IjIyMCUiIGhlaWdodD0iMjIwJSI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMzAiLz48L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iczEiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMDUiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjkwIiBmaWxsPSIjMGIwYzFhIi8+CiAgPGNpcmNsZSBjeD0iNjAiIGN5PSI0NSIgcj0iNzAiIGZpbGw9IiNGNEI4NjAiIG9wYWNpdHk9IjAuNSIgZmlsdGVyPSJ1cmwoI2IxKSIvPgogIDxjaXJjbGUgY3g9Ijk0MCIgY3k9IjQ1IiByPSI3MCIgZmlsbD0iIzRGRDFCOCIgb3BhY2l0eT0iMC40NSIgZmlsdGVyPSJ1cmwoI2IxKSIvPgogIDxyZWN0IHg9IjIwIiB5PSIxNSIgd2lkdGg9Ijk2MCIgaGVpZ2h0PSI2MCIgcng9IjE4IiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9IjAuMDYiIHN0cm9rZT0idXJsKCNzMSkiIHN0cm9rZS13aWR0aD0iMS4yIi8+CiAgPHRleHQgeD0iNTAwIiB5PSI1MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIyNCIgZm9udC13ZWlnaHQ9IjYwMCIgZmlsbD0iI0Y0Qjg2MCI+fi9jb25uZWN0LnNoPC90ZXh0Pgo8L3N2Zz4K" width="100%" alt="connect" />
-
-<div align="center"><br/>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-pranamnie--cpu-1e1533?style=for-the-badge&logo=github&logoColor=F4B860)](https://github.com/pranamnie-cpu)
-[![Email](https://img.shields.io/badge/EMAIL-pranamn714%40gmail.com-1e1533?style=for-the-badge&logo=gmail&logoColor=4FD1B8)](mailto:pranamn714@gmail.com)
-[![Location](https://img.shields.io/badge/LOCATION-Karnataka%2C%20India-1e1533?style=for-the-badge&logo=googlemaps&logoColor=F4B860)](#)
-
-<br/><br/>
-
-```
-"I build things, break things, and figure out how they work in between."
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c1a,50:1e1533,100:161a35&height=90&section=footer" width="100%"/>
