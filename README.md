@@ -1,104 +1,91 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi,%20I'm%20Pranam%20R!&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20|%20AI%20&%20ML%20Enthusiast&descAlignY=55" width="100%"/>
+</h1>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c6ff,50:8e2de2,100:ff0080&height=220&section=header&text=Pranam%20R&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%20(AI%20%26%20ML)&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;AI+%26+ML+Enthusiast;Turning+Ideas+Into+Interfaces" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Email-pranamn714%40gmail.com-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Location-Udupi%2C%20Karnataka-00C6FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/LinkedIn-Connect-FF0080?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);B.Tech+CSE+(AI+%26+ML)+Student;Passionate+about+Web+Development;Always+Learning+%26+Building" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<table align="center" width="90%">
-<tr>
-<td>
-
-### 🌌 About Me
-
-- 🎓 **B.Tech CSE (AI & ML)** student — lateral entry, 3rd semester
-- 💼 4 months **MERN Stack** internship @ CodeLab System, Mangalore
-- 🏆 Diploma in CS — **CGPA 9.7/10**, NRAM Polytechnic, Nitte
-- 📜 Infosys Springboard — Full Stack Development certified
-- 🧠 Exploring AI/ML while sharpening full-stack skills
-- 🚀 I build clean, working products — not just code
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
-
-### 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,nodejs,express,mongodb,git,github,vscode&theme=dark&perline=6"/>
-
+  <a href="mailto:pranamn714@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/pranamnie-cpu">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Udupi%2C%20Karnataka-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </div>
 
-<br/>
-
+<br>
 <div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="80%" height="3px" alt="RGB Line"/>
+</div>
+<br>
 
-### 💻 Featured Projects
+### 👨‍💻 About Me
+- 🎓 Currently pursuing **B.Tech in CSE (AI & ML)** - 3rd Semester (Lateral Entry).
+- 📜 Hold a **Diploma in Computer Science** with a **9.7/10 CGPA** from NRAM Polytechnic Nitte.
+- 💼 Completed a 4-month **Full Stack Developer (MERN)** internship at CodeLab System, Mangalore.
+- 🏆 Certified in **Full Stack Development** via Infosys Springboard.
+- 🚀 Passionate about building seamless digital experiences and bridging the gap between design and robust backend logic.
 
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="80%" height="3px" alt="RGB Line"/>
+</div>
+<br>
+
+### 🛠️ Tech Stack & Tools
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,nodejs,express,mongo,git,github,vscode&perline=6" alt="Tech Stack Icons" />
+  </a>
 </div>
 
-<table align="center" width="90%">
-<tr>
-<td width="50%" valign="top">
-
-**🔧 Contractor Finder System**
-<br/><i>Internship Project</i>
-
-A web-based platform connecting users with local contractors, built end-to-end on the MERN stack.
-
-</td>
-<td width="50%" valign="top">
-
-**🍽️ Digital Menu System**
-<br/><i>Personal Project</i>
-
-A QR-based digital menu app replacing paper menus with an interactive restaurant interface.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
+<br>
 <div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="80%" height="3px" alt="RGB Line"/>
+</div>
+<br>
 
-### 📊 GitHub Stats
+### 💡 Featured Projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranamnie-cpu&show_icons=true&theme=transparent&hide_border=true&title_color=8E2DE2&icon_color=00C6FF&text_color=c9d1d9&bg_color=00000000" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranamnie-cpu&theme=transparent&hide_border=true&ring=8E2DE2&fire=FF0080&currStreakLabel=00C6FF&background=00000000" width="48%"/>
+| 🚀 Project | 📝 Description | 💻 Role / Stack |
+| :--- | :--- | :--- |
+| **Contractor Finder System** | A comprehensive platform built to easily find and connect with contractors. | *Internship Project / MERN* |
+| **Digital Menu System** | A modern QR-based digital restaurant menu for seamless ordering. | *Personal Project / Full Stack* |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranamnie-cpu&layout=compact&theme=transparent&hide_border=true&title_color=8E2DE2&text_color=c9d1d9&bg_color=00000000" width="55%"/>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="80%" height="3px" alt="RGB Line"/>
+</div>
+<br>
 
+### 📊 GitHub Stats (Glassmorphism Theme)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranamnie-cpu&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00f0ff&text_color=ffffff&icon_color=ff00aa" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranamnie-cpu&theme=radical&hide_border=true&background=00000000&title_color=00f0ff&text_color=ffffff&icon_color=ff00aa" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranamnie-cpu&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00f0ff&text_color=ffffff" alt="Top Languages" width="50%" />
 </div>
 
-<br/>
-
+<br>
 <div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="80%" height="3px" alt="RGB Line"/>
+</div>
+<br>
 
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/pranamnie-cpu/pranamnie-cpu/output/github-contribution-grid-snake.svg" width="90%"/>
-
+### 🐍 Contribution Snake Animation
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranamnie-cpu/pranamnie-cpu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranamnie-cpu/pranamnie-cpu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranamnie-cpu/pranamnie-cpu/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-<br/>
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff0080,50:8e2de2,100:00c6ff&height=120&section=footer" width="100%"/>
-
-<i>⭐️ Thanks for stopping by — always open to collaborating on interesting projects!</i>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
